@@ -1,0 +1,28 @@
+body {
+    background-color: #d6e2f0;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.c-card {
+    inline-size: 450px;
+    block-size: 600px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.c-card__image {
+    margin: 20px;
+    inline-size: 250px;
+    border-radius: 20px;
+}
+
+.c-card__headline {
+    color: #1f3251;
+}
+
+.c-card__text {
+    color: #68778d;
+    font-size: 15px;
+}
