@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/xluxeo/qr-code-component/tree/main/qr-code-component-main)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://chipper-custard-67b476.netlify.app/)
 
 ### Built with
 
